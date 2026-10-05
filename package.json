@@ -1,6 +1,5 @@
 {
-  "homepage": "https://tsepontlhane15.github.io/library-management",
-  "name": "library-management",
+  "name": "library-management", "homepage": "https://tsepontlhane15.github.io/library-management",
   "private": true,
   "version": "0.0.0",
   "type": "module",
